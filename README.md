@@ -15,12 +15,14 @@
 </p>
 
 # 💫 About Me:
+
 - 🔭 I’m currently working on **Laravel-based web apps**<br>
-- 👯 I’m looking to collaborate on **React or Laravel open-source projects**<br>
-- 🤝 I’m looking for help with **React best practices and modern frontend architecture**<br>
-- 🌱 I’m currently learning **JavaScript and React**
+- 👯 I’m looking to collaborate on **Angular or ASP.Net open-source projects**<br>
+- 🤝 I’m looking for help with **Angular best practices and modern frontend architecture**<br>
+- 🌱 I’m currently learning **JavaScript and C#**
 
 # 💻 Tech Stack:
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -39,16 +41,19 @@
 </p>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=tetat&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tetat&theme=react&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tetat&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 📫 Ping Me Anytime:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tetat)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tetat)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishat00101@gmail.com) 
+[![tetat#4179](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tetat)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishat00101@gmail.com)
 
 ## 💡My Competitive Programming Profiles:
+
 <p align="left">
   <a href="https://codeforces.com/profile/tetat">
     <img src="https://github.com/tetat/tetat/blob/main/images/cp/codeforces.png" alt="CodeForces" style="vertical-align:top; margin:4">
