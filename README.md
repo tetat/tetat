@@ -6,7 +6,7 @@
     <strong><em>also,</em></strong>
   </p>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=550&lines=Problem+Solver;History+Explorer" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=550&lines=a+Software+Engineer;a+Problem+Solver;" alt="Typing animation" />
   </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 # 💫 About Me:
 
 - 🔭 I’m currently working on **Laravel-based web apps**<br>
-- 👯 I’m looking to collaborate on **Angular or ASP.Net open-source projects**<br>
-- 🤝 I’m looking for help with **Angular best practices and modern frontend architecture**<br>
-- 🌱 I’m currently learning **JavaScript and C#**
+- 👯 I’m looking to collaborate on **React open-source projects**<br>
+- 🤝 I’m looking for help with **React best practices and modern frontend architecture**<br>
+- 🌱 I’m currently learning **JavaScript & React**
 
 # 💻 Tech Stack:
 
@@ -31,14 +31,12 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 
   <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <!-- Runtime & Tools -->
