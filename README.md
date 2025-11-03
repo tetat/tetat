@@ -61,11 +61,7 @@
 ## 💡My Competitive Programming Profiles:
 
 <p align="left">
-  <a href="https://codeforces.com/profile/tetat">
-    <img src="https://github.com/tetat/tetat/blob/main/images/cp/codeforces.png" alt="CodeForces" style="vertical-align:top; margin:4">
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/tetat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nishat" height="30" width="40" /></a>
   
-  <a href="https://leetcode.com/u/tetat/">
-    <img src="https://github.com/tetat/tetat/blob/main/images/cp/leetcode.png" alt="leetcode" style="vertical-align:top; margin:4;">
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/tetat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishat" height="30" width="40" /></a>
 </p>
