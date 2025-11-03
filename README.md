@@ -60,4 +60,5 @@
 <p align="left">
   <a href="https://codeforces.com/profile/tetat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nishat" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/tetat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishat" height="30" width="40" /></a>
+  <a href="https://hackerrank.com/profile/tetat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishat" height="30" width="40" /></a>
 </p>
