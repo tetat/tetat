@@ -45,10 +45,6 @@
 
 # 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=tetat&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tetat&theme=react&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tetat&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
-
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=tetat&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
