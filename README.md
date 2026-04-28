@@ -16,23 +16,25 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Laravel-based web apps**<br>
-- 👯 I’m looking to collaborate on **React open-source projects**<br>
-- 🤝 I’m looking for help with **React best practices and modern frontend architecture**<br>
-- 🌱 I’m currently learning **JavaScript & React**
+- 🔭 I’m currently building **full-stack applications using Laravel, Inertia.js & React**<br>
+- 👯 I’m open to collaborating on **Laravel and React projects**<br>
+- 🤝 I’m focused on improving **backend architecture and modern frontend architecture**<br>
+- 🌱 I’m currently learning **TypeScript & InertiaJS**
 
 # 💻 Tech Stack:
 
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
   <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 
   <!-- Databases -->
